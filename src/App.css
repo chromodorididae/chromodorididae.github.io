@@ -1,3 +1,35 @@
+ul {
+  padding-right: 25px;
+}
+
+
+li {
+  /* text-align: left; */
+  display: inline-table;
+  padding: 10px
+}
+
+i.fas.fa-server {
+  margin-left: 5px;
+}
+
+i.fab.fa-node-js {
+  margin-left: 5px;
+  color: #68A063;
+  /* color: #3C873A */
+}
+
+i.fab.fa-react {
+  margin-left: 5px;
+  color: #61DBFB;
+}
+
+i.fa.fa-database {
+  margin-left: 5px;
+  color: #4DB33D;
+
+}
+
 /* i.bi.bi-robot {
   font-size: x-large;
 } */
@@ -12,7 +44,9 @@
   width: 25%;
   margin-right: 400px;
   place-items: center;
+  /* background-color: white; */
   background-color: white;
+  border-radius: 10px;
 
 }
 
@@ -20,7 +54,9 @@
   width: 75%;
   height: 500px;
   place-items: center;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+
 }
 
 h1.home-title {
@@ -32,14 +68,15 @@ h1.home-title {
 }
 
 body {
-  background-image: url("./images/myproject.jpg");
-  /* Emil Priver, Unsplash */
+  background-image: url("./images/lautaro-andreani-xkBaqlcqeb4-unsplash.jpg");
   background-size: cover;
+  /* background-image: url("./images/myproject.jpg"); */
+  /* Emil Priver, Unsplash */
+  /* Growtika, Unsplash */
 }
 
 .App {
   text-align: center;
-  /* background-image: url("./images/myproject.jpg") */
 }
 
 .App-logo {

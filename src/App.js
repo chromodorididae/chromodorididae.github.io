@@ -5,16 +5,26 @@ import Home from './pages/Home';
 import Experience from './pages/Experience';
 import Projects from './pages/Projects';
 
+
+
+//adding FontAwesome
+// import { library } from "@fortawesome/fontawesome-svg-core";
+// import { FortAwesomeIcon } from "@fortawesome/react-fontawesome";
+// import { faUserRobot, faGitHubAlt } from "@fortawesome/free-solid-svg-icons";
+
+// library.add(faUserRobot, faGitHubAlt);
+
+
 // import Navbar from './components/Navbar'
 import Header from './components/Header'
-
-
 
 function App() {
   return (
     <div className="App">
       {/* <Navbar /> */}
       <Header />
+      {/* <i class="bi bi-person-circle"></i> */}
+      
       {/* <header className="App-header">
        <h1>App Header</h1>
       </header> */}
