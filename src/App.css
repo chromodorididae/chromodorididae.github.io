@@ -1,5 +1,45 @@
+/* i.bi.bi-robot {
+  font-size: x-large;
+} */
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  padding: 50px;
+}
+
+.flex-left {
+  width: 25%;
+  margin-right: 400px;
+  place-items: center;
+  background-color: white;
+
+}
+
+.flex-right {
+  width: 75%;
+  height: 500px;
+  place-items: center;
+  background-color: white;
+}
+
+h1.home-title {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: black;
+  background: #EADDCA;
+  padding: 10px;
+  font-size: 20pt;
+}
+
+body {
+  background-image: url("./images/myproject.jpg");
+  /* Emil Priver, Unsplash */
+  background-size: cover;
+}
+
 .App {
   text-align: center;
+  /* background-image: url("./images/myproject.jpg") */
 }
 
 .App-logo {
