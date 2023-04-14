@@ -26,22 +26,40 @@ function Home() {
                     {/* Technologies I use: */}
 
                     
-                    <ul>
+                    <ul class="mern-stack">
                         <li>MongoDB
                         <i className="fa fa-database"></i>
-                        </li>
-                        <li>Express
+                        Express
                         <i className='fas fa-server'></i>
                         </li>
+                        {/* <li>Express
+                        <i className='fas fa-server'></i>
+                        </li> */}
                         <li>React
                         <i className='fab fa-react'></i>
-                        </li>
-                        <li>Node
+                        </li>Node
                         <i className='fab fa-node-js'></i>
-                        </li>
+                        {/* <li>Node
+                        <i className='fab fa-node-js'></i>
+                        </li> */}
                         
                     </ul>
                 </h5>
+
+                <div>
+                    <h5 style={{marginBottom: '-20px'}}>Get in touch</h5>
+                    <br />
+                    <p>
+                        email
+                        <i class="fa fa-envelope" style={{paddingLeft: '10px'}}></i>
+
+                       <br />
+                       linkedin
+                       <i class='fas fa-address-card'></i>
+
+
+                    </p>
+                </div>
 
                 </div>
 
@@ -67,24 +85,60 @@ function Home() {
                     {/* here is the second sidebar */}
                     <br />
                         <i class="fa fa-briefcase"></i>
-                        <h5 style={{marginTop: '-30px'}}>
+                        {/* <h5 style={{padding: '10px', marginTop: '-25px'}}> */}
+                        <h5 style={{marginTop: '-25px'}}>
+
                         <br />
-                        Skills and Experience</h5>
+                        Skills & Experience</h5>
                         
                         <ul>
                             <li>
                                 Job Title
                             </li>
+                            <br/>
                             <li>
                                 Job Title
                             </li>
+                            <br/>
                             <li>
                                 Job Title
                             </li>
+                            <br/>
                             <li>
                                 Job Title
                             </li>
                         </ul>
+
+                            <h5>
+                            <i class="fa fa-graduation-cap"></i>
+                            <br />
+                            Education</h5>
+                        <ul>
+
+                            <li>
+                                <h6>Degree:</h6>
+                            Associate in Science 
+                            <p>5/2022</p>
+                            </li>
+                            <li>
+                                <h6>Certifications:</h6>
+                                <p>CompTIA A+
+                                <br />Month/Year</p>
+                                
+                                <p>
+                                    Software Engineering,
+                                    <br />
+                                    Per Scholas
+                                    <br/>
+                                    4/2023
+                                </p>
+                            </li>
+                        </ul>
+
+                        {/* <ul>
+                            <h5></h5>
+                            <li></li>
+                        </ul> */}
                 </div>
                 {/* .body tag ends on next line */}
                 </div> 
