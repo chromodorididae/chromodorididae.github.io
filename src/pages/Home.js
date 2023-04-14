@@ -70,12 +70,12 @@ function Home() {
                     <br /> */}
                     {/* [enter photo carousel here] */}
                     <h3 className='demo-title'>CURRENT DEMO</h3>
-                    <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="KKBrmRB" data-user="lotteconfectionery">
-                    <span>See the Pen <a href="https://codepen.io/lotteconfectionery/pen/KKBrmRB">
-                    Whack a Snake</a> by Lotte (<a href="https://codepen.io/lotteconfectionery">@lotteconfectionery</a>)
-                    on <a href="https://codepen.io">CodePen</a>.</span>
-                    </p>
-                    <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+                    <iframe src="https://codesandbox.io/embed/todos-forked-vw45mf?fontsize=14&hidenavigation=1&theme=dark"
+                    style={{paddingTop: '25px', width:'100%', height:'600px', border:'0px', borderRadius: '4px', overflow:'hidden'}}
+                    title="Todos (forked)"
+                    allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+                    sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+                    ></iframe>
                 </div>
 
                 <div className='secondary-sidebar'>

@@ -1,4 +1,4 @@
-p.codepen {
+/* p.codepen {
 height: 300px;
 box-sizing: border-box;
 display: flex;
@@ -7,7 +7,7 @@ justify-content: center;
 border: 2px solid;
 margin: 1em 0;
 padding: 1em;
-}
+} */
 
 h3.demo-title {
   background-color: black;
