@@ -87,22 +87,32 @@ function Home() {
 
                         <br />
                         Skills & Experience</h5>
-                        
+                        <hr />
                         <ul>
                             <li>
+                                Technical Support Representative
+                            </li>
+                            <br/><br/>
+                            <li>
+                                Front Desk Agent
+                            </li>
+                            <br/>
+                            {/* <li>
                                 Job Title
                             </li>
                             <br/>
                             <li>
                                 Job Title
-                            </li>
-                            <br/>
+                            </li> */}
+                            <br />
                             <li>
-                                Job Title
+                                Problem-solving
                             </li>
-                            <br/>
                             <li>
-                                Job Title
+                                Self-driven
+                            </li>
+                            <li>
+                                Creative thinking
                             </li>
                         </ul>
 
@@ -110,6 +120,8 @@ function Home() {
                             <i class="fa fa-graduation-cap"></i>
                             <br />
                             Education</h5>
+                            <hr />
+
                         <ul>
 
                             <li>
