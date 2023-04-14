@@ -55,7 +55,7 @@ function Home() {
                 <div>
                     <h5 style={{marginTop:'25px'}}><br />Get in touch</h5>
                     <p>
-                        example-email@example-email.com
+                        chromodorididae@gmail.com<br />
                         <i class="fa fa-envelope" style={{paddingLeft: '10px'}}></i>
                        {/* <br />
                        linkedin.com/example-linkedin-account
@@ -68,19 +68,14 @@ function Home() {
                 <div className='main-body'>
                     {/* here is the main body
                     <br /> */}
-                    <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim ut tellus elementum sagittis vitae. Arcu vitae elementum curabitur vitae nunc. Nunc sed blandit libero volutpat sed cras ornare arcu dui. Pharetra vel turpis nunc eget lorem dolor sed. Augue mauris augue neque gravida in fermentum et sollicitudin ac. Ultricies leo integer malesuada nunc vel risus commodo viverra. Sit amet consectetur adipiscing elit pellentesque. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper. In nisl nisi scelerisque eu ultrices vitae auctor eu augue. Risus quis varius quam quisque id. Sit amet est placerat in egestas. Sed viverra tellus in hac habitasse platea dictumst vestibulum rhoncus. Turpis cursus in hac habitasse platea dictumst quisque. Aliquet eget sit amet tellus cras adipiscing.
-
-                    Diam volutpat commodo sed egestas egestas fringilla. Consectetur adipiscing elit pellentesque habitant morbi tristique senectus et netus. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Tellus elementum sagittis vitae et. Placerat vestibulum lectus mauris ultrices eros in cursus turpis. Elit ut aliquam purus sit amet luctus venenatis lectus magna. Vel eros donec ac odio tempor orci. Odio facilisis mauris sit amet. Sed elementum tempus egestas sed sed. Et malesuada fames ac turpis egestas sed tempus. Malesuada bibendum arcu vitae elementum curabitur vitae nunc.
-
-                    Massa tincidunt dui ut ornare lectus sit amet est placerat. Ut sem viverra aliquet eget sit amet tellus cras adipiscing. Lectus quam id leo in vitae turpis massa sed. Duis at tellus at urna condimentum mattis pellentesque id nibh. Vitae purus faucibus ornare suspendisse. Aliquam purus sit amet luctus venenatis lectus. Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Pellentesque habitant morbi tristique senectus. Sed cras ornare arcu dui vivamus arcu felis bibendum. Mattis pellentesque id nibh tortor id aliquet lectus proin nibh. Lectus urna duis convallis convallis tellus id interdum. Sagittis orci a scelerisque purus semper eget duis at tellus. Tristique senectus et netus et malesuada fames ac. Urna nec tincidunt praesent semper feugiat. Tortor id aliquet lectus proin nibh nisl. Pharetra pharetra massa massa ultricies mi quis hendrerit dolor magna. Facilisis mauris sit amet massa vitae. Aliquet enim tortor at auctor. A pellentesque sit amet porttitor eget dolor morbi. Aliquam sem fringilla ut morbi tincidunt augue interdum velit.
-
-                    Tellus at urna condimentum mattis pellentesque id nibh tortor id. Tristique nulla aliquet enim tortor. Sit amet luctus venenatis lectus magna fringilla. Lacus laoreet non curabitur gravida arcu. Massa id neque aliquam vestibulum morbi blandit. Facilisis volutpat est velit egestas dui id. Neque sodales ut etiam sit amet. In nisl nisi scelerisque eu ultrices vitae auctor eu augue. Felis imperdiet proin fermentum leo vel orci porta non. Interdum posuere lorem ipsum dolor.
-
-                    Risus nec feugiat in fermentum. Viverra adipiscing at in tellus integer. Sem fringilla ut morbi tincidunt. Pellentesque adipiscing commodo elit at imperdiet. Nisi porta lorem mollis aliquam. Eget aliquet nibh praesent tristique. Lectus urna duis convallis convallis tellus. Volutpat maecenas volutpat blandit aliquam etiam. Nisl nisi scelerisque eu ultrices. Aenean euismod elementum nisi quis. Gravida rutrum quisque non tellus orci ac. Ultrices eros in cursus turpis massa tincidunt.
-
-                    Pellentesque massa placerat duis ultricies lacus sed. Vitae congue eu consequat ac felis. Quam nulla porttitor massa id neque aliquam vestibulum morbi. Adipiscing enim eu turpis egestas pretium aenean pharetra. Ut sem viverra aliquet eget sit. Egestas quis ipsum suspendisse ultrices gravida dictum. Elementum sagittis vitae et leo duis ut diam. Sodales ut etiam sit amet nisl purus in mollis nunc. Cras ornare arcu dui vivamus arcu felis bibendum ut tristique. Elit ut aliquam purus sit. Ullamcorper morbi tincidunt ornare massa. Ultricies mi eget mauris pharetra et ultrices.
+                    {/* [enter photo carousel here] */}
+                    <h3 className='demo-title'>CURRENT DEMO</h3>
+                    <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="KKBrmRB" data-user="lotteconfectionery">
+                    <span>See the Pen <a href="https://codepen.io/lotteconfectionery/pen/KKBrmRB">
+                    Whack a Snake</a> by Lotte (<a href="https://codepen.io/lotteconfectionery">@lotteconfectionery</a>)
+                    on <a href="https://codepen.io">CodePen</a>.</span>
                     </p>
+                    <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
                 </div>
 
                 <div className='secondary-sidebar'>
