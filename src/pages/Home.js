@@ -16,11 +16,14 @@ function Home() {
                     <h1 style={{padding: '20px', fontSize: '30px'}}>Marina Medrano</h1>
                 <br />
                 <a href="https://github.com/chromodorididae">
-                <i className='fab fa-github-alt' style={{fontSize: '72px', color: 'black', marginTop: '-60px'}}></i>
+                <i className='fab fa-github-alt' style={{fontSize: '72px', color: 'black', marginTop: '-60px', marginBottom: '10px'}}></i>
                 </a>
-                <p style={{padding: '15px'}}>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incclassNameclassNameunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+                <p className='bio-section' style={{padding: '10px', lineHeight: '150%'}}>
+                <span style={{backgroundColor: 'black', color: 'white'}}>NYC based web developer</span>
+                <br /><br />
+                I am a curiosity driven programmer seeking to develop user-friendly web applications with unique features and designs.
+                <br /><br />
+                I am strongly invested in developing accessible and readible sites to create a more open web experience for all.
                 </p>
                 <h5>
                     {/* Technologies I use: */}
@@ -29,35 +32,34 @@ function Home() {
                     <ul class="mern-stack">
                         <li>MongoDB
                         <i className="fa fa-database"></i>
-                        Express
+                        {/* Express
+                        <i className='fas fa-server'></i> */}
+                        </li>
+                        <li>Express
                         <i className='fas fa-server'></i>
                         </li>
-                        {/* <li>Express
-                        <i className='fas fa-server'></i>
-                        </li> */}
+
+
                         <li>React
                         <i className='fab fa-react'></i>
-                        </li>Node
+                        </li>
+                        {/* Node
+                        <i className='fab fa-node-js'></i> */}
+                        <li>Node
                         <i className='fab fa-node-js'></i>
-                        {/* <li>Node
-                        <i className='fab fa-node-js'></i>
-                        </li> */}
+                        </li>
                         
                     </ul>
                 </h5>
 
                 <div>
-                    <h5 style={{marginBottom: '-20px'}}>Get in touch</h5>
-                    <br />
+                    <h5 style={{marginTop:'25px'}}><br />Get in touch</h5>
                     <p>
-                        email
+                        example-email@example-email.com
                         <i class="fa fa-envelope" style={{paddingLeft: '10px'}}></i>
-
-                       <br />
-                       linkedin
-                       <i class='fas fa-address-card'></i>
-
-
+                       {/* <br />
+                       linkedin.com/example-linkedin-account
+                       <i class='fas fa-address-card' style={{paddingLeft: '10px'}}></i> */}
                     </p>
                 </div>
 
